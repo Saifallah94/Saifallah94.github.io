@@ -1,0 +1,18 @@
+
+
+header .col-text h2, .col-1 > h3 { line-height: 1.8 }
+
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--purple-300) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--purple-300) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--purple-200) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--purple-200) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--purple-300) }
+nav.theme-light,
+nav.theme-light ul.links-wrapper.active { background-color: var(--purple-300) }
+header.theme-light { background-color: var(--yellow-300) }
+header.theme-light h1 { color: var(--purple-900) }
