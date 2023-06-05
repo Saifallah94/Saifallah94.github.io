@@ -1,4 +1,7 @@
 /* Add your custom CSS here */
+
+body { font-family: 'Outfit', sans-serif } 
+
 .section-selector-1 { background-color: var(--trend-700) }
 .section-selector-1 > .badge span { background-color: var(--trend-700) }
 .section-selector-1 > .badge span { color: var(--white-000) }
